@@ -1,29 +1,41 @@
-name: boobam
-favicon: null
-layout_spectrum: 0.5054675054270774
-typography_spectrum: 0.7377215081360191
 title: Eco Echo
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0.8040710343047976
+  brandStrength: 0.1666667
+  lightness: 0.9252916353289038
+  brandColors:
+    - '#FFFFFF'
+    - '#23481D'
+    - '#0D190A'
+    - '#69916C'
+    - '#B7C4B7'
+  rhythmicContrast: 0.4904204062186182
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: boobam
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#e2dacf'
-    - '#a59b91'
-    - '#131514'
-    - '#645649'
-    - '#36f68f'
-  brandStrength: 0.1707058202009648
-  lightness: 0.9252916353289038
-  saturation: 0.8040710343047976
-  rhythmicContrast: 0.49042040621861815
-purpose: []
+typography_spectrum: 0.7377215081360191
+layout_spectrum: 0.5054675054270774
