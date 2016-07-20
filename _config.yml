@@ -1,0 +1,28 @@
+name: boobam
+favicon: null
+layout_spectrum: 0.5054675054270774
+typography_spectrum: 0.7377215081360191
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.1707058202009648
+  lightness: 0.9252916353289038
+  saturation: 0.8040710343047976
+  rhythmicContrast: 0.49042040621861815
+purpose: []
