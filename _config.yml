@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: boobam
 favicon: null
+name: boobam
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.7377215081360191
-layout_spectrum: 0.5054675054270774
+layout_spectrum: 1
