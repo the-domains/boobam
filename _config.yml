@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.8040710343047976
+  saturation: 0.804071
   brandStrength: 0.7634408
-  lightness: 0.9252916353289038
+  lightness: 0.9252917
   brandColors:
     - '#C8BCAE'
     - '#ECE5DB'
     - '#A49A90'
     - '#151618'
     - '#3AB461'
-  rhythmicContrast: 0.4904204062186182
+  rhythmicContrast: 0.5053763
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: boobam
+favicon: null
 opengraph:
   image: null
   type: null
